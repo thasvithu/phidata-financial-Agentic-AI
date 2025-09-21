@@ -1,0 +1,18 @@
+[project]
+name = "phidata-financial-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "duckduckgo-search>=8.1.1",
+    "fastapi>=0.117.1",
+    "groq>=0.31.1",
+    "openai>=1.108.1",
+    "packaging>=25.0",
+    "phidata>=2.7.10",
+    "python-dotenv>=1.1.1",
+    "python-multipart>=0.0.20",
+    "uvicorn>=0.36.0",
+    "yfinance>=0.2.66",
+]

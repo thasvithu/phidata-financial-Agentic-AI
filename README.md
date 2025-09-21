@@ -1,5 +1,7 @@
 # phidata-financial-agent
 
+![Project homepage preview](./output.png)
+
 Multi-agent demo using phidata with Groq models, DuckDuckGo web search, and YFinance tools. Includes a small Playground UI.
 
 ## Requirements
